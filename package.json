@@ -1,0 +1,23 @@
+{
+  "name": "block-chain",
+  "version": "0.1.0",
+  "description": "Key Value Storage (Node)",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airmaster-mh/block-chain.git"
+  },
+  "author": "airmaster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airmaster-mh/block-chain/issues"
+  },
+  "homepage": "https://github.com/airmaster-mh/block-chain#readme"
+}
